@@ -9,22 +9,22 @@ My projects cover image annotation, video object tracking, and 3D cuboid annotat
 ### 1. 2D Bounding Box Annotation
 Demonstrates drawing bounding boxes around objects such as people and cars.
 
-[View Bounding Box Project](2D-Annotation/Bounding-Boxes/README.md)
+[View Bounding Box Project](./2D-Annotation/Bounding-Boxes/readme.md)
 
 ### 2. 2D Polygon Annotation
 Demonstrates tracing the outline of a person using polygon annotation.
 
-[View Polygon Annotation Project](2D-Annotation/Polygon-Annotation/README.md)
+[View Polygon Annotation Project](./2D-Annotation/Polygon-Annotation/readme.md)
 
 ### 3. 2D Video Object Tracking
 Demonstrates tracking a moving car across video frames, including interpolation and handling when the car leaves the frame.
 
-[View Video Object Tracking Project](2D-Video-Object-Tracking/README.md)
+[View Video Object Tracking Project](./2D-Video-Object-Tracking/readme.md)
 
 ### 4. 3D Cuboid Annotation
 Demonstrates annotating cars in a 3D scene using cuboids to represent their positions and dimensions.
 
-[View 3D Cuboid Annotation Project](3D-Cuboid-Annotation/README.md)
+[View 3D Cuboid Annotation Project](./3D-Cuboid-Annotation/readme.md)
 
 ## Tools and Skills
 
