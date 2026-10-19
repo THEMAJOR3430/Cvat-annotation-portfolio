@@ -26,7 +26,7 @@ For both examples, bounding boxes are placed around visible objects and assigned
 
 The following screenshot showcases bounding box annotations applied to cars.
 
-![Car Bounding Box Annotation](screenshots/car-bounding-box-annotation.png)
+![Car Bounding Box Annotation](screenshots/car-bounding-box-annotation.png/car-bounding-box-annotation(2).png)
 
 ## Demonstration Video
 
