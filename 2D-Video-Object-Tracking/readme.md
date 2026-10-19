@@ -31,20 +31,23 @@ The following screenshots showcase my video object tracking work in CVAT.
 ### Screenshot 1: Initial Car Tracking
 
 ![Car Tracking Frame 1](screenshots/car-tracking-frame-1.png)
+Shows the car annotation across video frames, demonstrating how the object's position is tracked as it moves through the scene.
 
 ### Screenshot 2: Car Tracking Progress
 
 ![Car Tracking Frame 2](screenshots/car-tracking-frame-2.png)
+Demonstrates interpolation in CVAT, where object positions between keyframes are automatically estimated to support efficient video annotation.
 
 ### Screenshot 3: Continued Car Tracking
 
 ![Car Tracking Frame 3](screenshots/car-tracking-frame-3.png)
+Shows the use of the “Outside” attribute to indicate when the car is no longer visible in the video frame.
 
 ## Demonstration Video
 
 Watch my demonstration of 2D video object tracking using CVAT.
 
-**YouTube:** [Watch the Video Object Tracking Demonstration](ADD_YOUR_YOUTUBE_LINK_HERE)
+**YouTube:** [Watch the Video Object Tracking Demonstration](https://youtu.be/mb8sHY4hPtg)
 
 ## Project Outcome
 
