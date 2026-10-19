@@ -43,7 +43,7 @@ The following screenshots showcase my bounding box annotation work on cars, incl
 
 The video demonstrates my bounding box annotation workflow using images of people in CVAT.
 
-**YouTube:** [Watch the Bounding Box Annotation Demonstration](ADD_YOUR_YOUTUBE_LINK_HERE)
+**YouTube:** [Watch the Bounding Box Annotation Demonstration](https://youtu.be/hSRGSeuMIaQ)
 
 ## Project Outcome
 
