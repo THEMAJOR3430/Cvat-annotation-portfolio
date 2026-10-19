@@ -33,7 +33,7 @@ The screenshot below showcases my completed polygon annotation of a person using
 
 Watch my demonstration of the 2D polygon annotation workflow using CVAT.
 
-**YouTube:** [Watch the Polygon Annotation Demonstration](ADD_YOUR_YOUTUBE_LINK_HERE)
+**YouTube:** [Watch the Polygon Annotation Demonstration](https://youtu.be/r8BhZKiTnpc)
 
 ## Project Outcome
 
